@@ -16,7 +16,7 @@ i=0
 j=0
 temp=0
 
-#now we print the stripped plain text and repeating key below it
+#now we print the repeating key below stripped plain text :
 for j in range (0,len(l3)):
     print(l4[i] , end="")
     if(i==(len(l4)-1)):
