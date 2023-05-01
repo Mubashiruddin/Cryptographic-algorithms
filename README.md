@@ -4,3 +4,4 @@ This is the list of standard basic cryptographic algorithms used in intermediate
 The list of algorithms include :
 1. Hill cipher
 2. Vigenere cipher
+3. Rail Fence cipher
